@@ -1,0 +1,9 @@
+# Ignore everything inside the diffs folder
+diffs/*
+
+# Ignore everything inside the saves folder
+saves/*
+
+.DS_Store
+
+__pycache__
